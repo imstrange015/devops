@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iedited
+=======
+hi i changed in console
+>>>>>>> 9d70ac442cb8f59e964c1ffcec156a7dd80934c4
